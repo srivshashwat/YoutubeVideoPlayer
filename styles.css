@@ -1,0 +1,14 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    margin: 100px;
+    padding: 100px;
+}
+
+#player {
+    width: 960px;
+    height: 540px;
+}
